@@ -5,3 +5,4 @@ Audi RB
 Tesla
 Mercedes S500
 Kia Optima
+Lexus GX470
